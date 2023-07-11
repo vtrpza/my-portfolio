@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto-Mono";
+}
+
+:root {
+  --dim-gray: #6e7271ff;
+  --cambridge-blue: #87cbacff;
+  --aquamarine: #90ffdcff;
+  --non-photo-blue: #8de4ffff;
+  --jordy-blue: #8ac4ffff;
+  --black: #020202;
+}
